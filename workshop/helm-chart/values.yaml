@@ -184,7 +184,7 @@ frontend:
 
   image:
     repository: 198083379300.dkr.ecr.eu-west-1.amazonaws.com/eks-app-mesh-demo/frontend_node
-    tag: "2.0"
+    tag: "3.0"
     pullPolicy: Always
 
   nameOverride: ""
